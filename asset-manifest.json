@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gynodevir/orgtodoApp/static/css/main.87de4f56.css",
-    "main.js": "/gynodevir/orgtodoApp/static/js/main.971d09bc.js",
-    "static/media/boxicons.svg": "/gynodevir/orgtodoApp/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
-    "static/media/boxicons.eot": "/gynodevir/orgtodoApp/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
-    "static/media/boxicons.woff": "/gynodevir/orgtodoApp/static/media/boxicons.d12afc36557395143e4b.woff",
-    "static/media/boxicons.ttf": "/gynodevir/orgtodoApp/static/media/boxicons.db9ddb1898dbd76badca.ttf",
-    "static/media/boxicons.woff2": "/gynodevir/orgtodoApp/static/media/boxicons.df635aaf04cd75132f62.woff2",
-    "index.html": "/gynodevir/orgtodoApp/index.html",
-    "main.87de4f56.css.map": "/gynodevir/orgtodoApp/static/css/main.87de4f56.css.map",
-    "main.971d09bc.js.map": "/gynodevir/orgtodoApp/static/js/main.971d09bc.js.map"
+    "main.css": "/static/css/main.ba5f5ac1.css",
+    "main.js": "/static/js/main.971d09bc.js",
+    "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "index.html": "/index.html",
+    "main.ba5f5ac1.css.map": "/static/css/main.ba5f5ac1.css.map",
+    "main.971d09bc.js.map": "/static/js/main.971d09bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.87de4f56.css",
+    "static/css/main.ba5f5ac1.css",
     "static/js/main.971d09bc.js"
   ]
 }
