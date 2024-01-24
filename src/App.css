@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:100,200');
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,600,700');
 .App {
   text-align: center;
 }
@@ -35,4 +37,61 @@
   to {
     transform: rotate(360deg);
   }
+}
+button {
+  position: relative;
+  height: 56px;
+  padding: 10px;
+  border: none;
+  background-color: tomato;
+  font-size: 24px;
+  cursor: pointer;
+  outline: none;
+  color: white;
+  box-shadow: 0 2px 7px rgba(0,0,0,0.3);
+}
+
+button:hover {
+  background: #FB3D1B;
+}
+button:active {
+  top: 2px;
+  box-shadow: 0 0 2px rgba(0,0,0,0.1);
+}
+
+#add-task{
+  background-color: #FB3357;
+  color: #fff;
+  width:60px;
+}
+#task{
+  width: 30%;
+  padding: 15px;
+}
+.task {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 5px;
+}
+
+.task-content {
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-between; /* Align task content to space-between */
+  align-items: center;
+}
+
+.task-buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.delTask {
+  margin-left: auto; /* Move the delete button to the right */
+}
+
+body{
+  background-color: #D04848;
 }
